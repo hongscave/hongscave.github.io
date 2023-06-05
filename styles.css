@@ -1,0 +1,47 @@
+body {
+    background-color: white;
+  }
+
+h1 {
+    color: black;
+    text-shadow: 1px 1px 2px white;
+  }
+
+p {
+    color: black;
+  }
+
+h1, p {
+    margin: 2% 2%;
+}  
+
+h2 {
+    padding: 1%;
+    text-shadow: 1px 1px 2px pink;
+    text-indent: 1%;
+}
+
+h3 {
+    text-align: center;
+    padding: 0.5%;
+    text-shadow: 1px 1px 2px pink;
+}
+
+.TabBar {
+    background-color: aliceblue;
+    border-radius: 5%;
+}
+
+.TopBanner {
+    background-color: aliceblue;
+    border-color: black;
+    border-style: dotted;
+    border-radius: 5%;
+}
+
+.MainFrame {
+    background-color: aliceblue;
+    size: auto;
+    padding: 1%;
+    border-radius: 5%;
+}
