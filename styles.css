@@ -35,7 +35,6 @@ h3 {
 .TopBanner {
     background-color: aliceblue;
     border-color: black;
-    border-style: dotted;
     border-radius: 5%;
 }
 
@@ -44,4 +43,10 @@ h3 {
     size: auto;
     padding: 1%;
     border-radius: 5%;
+}
+
+div {
+    width: auto;
+    max-width: 80%;
+    margin: auto;
 }
