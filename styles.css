@@ -35,20 +35,20 @@ h3 {
 
 .TabBar {
     background-color: aliceblue;
-    border-radius: 0%;
+    border-radius: 15px;
 }
 
 .TopBanner {
     background-color: aliceblue;
     padding: 1%;
-    border-radius: 5%;
+    border-radius: 15px;
 }
 
 .MainFrame {
     background-color: aliceblue;
     size: auto;
     padding: 1%;
-    border-radius: 5%;
+    border-radius: 15px;
 }
 
 div {
