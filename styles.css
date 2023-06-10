@@ -75,7 +75,7 @@ a {
     text-decoration: none;
 }
 
-a:visited { 
+a:before { 
     text-decoration: none; 
     color: white; 
  }
