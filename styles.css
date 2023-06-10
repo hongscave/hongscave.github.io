@@ -23,6 +23,12 @@ h1, h2, h3, p {
 
 h2 {
     text-indent: 1%;
+    border: 5px solid rgba(255, 255, 255, 0.484);
+    border-radius: 1em;
+    border-width: 0.2em;
+    border-style: inset;
+    color: white;
+    
 }
 
 h3 {
@@ -60,4 +66,9 @@ div {
     max-width: 80%;
     max-width: 600px;
     margin: auto;
+}
+
+a {
+    color: white;
+    text-decoration: none;
 }
