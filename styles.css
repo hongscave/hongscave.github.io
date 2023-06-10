@@ -40,7 +40,8 @@ h3 {
 .TabBar {
     background-color: rgb(13, 13, 13);
     border-radius: 15px;
-
+    text-underline-offset: -50%;
+    font-size: medium;
 }
 
 .TopBanner {
