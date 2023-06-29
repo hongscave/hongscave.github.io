@@ -15,6 +15,7 @@ h1 {
     text-decoration: underline turquoise;
     text-decoration-thickness: 0.1em;
     text-underline-offset: 5px;
+    text-align: center;
 }
 
 h1, h2, h3, p {
