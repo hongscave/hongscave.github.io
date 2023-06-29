@@ -9,6 +9,7 @@ p {
     font-size: small;
     font-style: italic;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
   }
 
 h1 {
@@ -16,6 +17,7 @@ h1 {
     text-decoration-thickness: 0.1em;
     text-underline-offset: 5px;
     text-align: center;
+    font-family: "Pacifico";
 }
 
 h1, h2, h3, p {
@@ -27,12 +29,14 @@ h1, h2, h3, p {
 
 h2 {
     text-indent: 1%;
-    border: 5px solid rgba(255, 255, 255, 0.484);
+    /* border: 5px solid rgba(255, 255, 255, 0.484);
     border-radius: 1em;
     border-width: 0.2em;
-    border-style: inset;
+    border-style: inset; */
     color: white;
     text-align: center;
+    font-family: "Pacifico";
+    margin: 0 3em;
     
 }
 
@@ -66,6 +70,19 @@ h3 {
     size: auto;
     padding: 1%;
     border-radius: 15px;
+}
+
+.container {
+    display: flex;
+  }
+  
+
+.WorkingOn {
+
+    border: 5px solid rgba(255, 255, 255, 0.484);
+    border-radius: 1em;
+    border-width: 0.2em;
+    border-style: inset;
 }
 
 div {
