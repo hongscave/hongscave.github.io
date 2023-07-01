@@ -36,7 +36,7 @@ h2 {
     color: white;
     text-align: center;
     font-family: "Pacifico";
-    margin: 0 3em;
+    
     
 }
 
@@ -73,8 +73,9 @@ h3 {
 }
 
 .container {
-    display: flex;
-  }
+    display: flex
+    
+}
   
 
 .WorkingOn {
@@ -90,6 +91,7 @@ div {
     max-width: 500px;
     margin: auto;
     padding: 5px;
+    min-width: 1%;
 }
 
 a {
